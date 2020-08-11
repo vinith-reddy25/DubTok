@@ -7,7 +7,7 @@ function Nav() {
     };
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-      <Text>Nav Screen</Text>
+      <Text>Chat with friends</Text>
     </View>
   );
 }

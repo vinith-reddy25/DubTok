@@ -151,7 +151,7 @@ function HomeScreen() {
                 </View>
 
                 <View style={styles.infoContainer}>
-                    <Text style={[styles.text, { fontWeight: "200", fontSize: 36 }]}>Vinith</Text>
+                    <Text style={[styles.text, { fontWeight: "200", fontSize: 36 }]}>Ram</Text>
                     <Text style={[styles.text, { color: "#AEB5BC", fontSize: 14 }]}>Project</Text>
                 </View>
               
